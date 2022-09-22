@@ -26,4 +26,10 @@ p{
 }
 h2{
     text-align: justify;
-}      
+}
+a :hover{
+    color: black;
+}
+a{
+    text-decoration:none;   
+}
