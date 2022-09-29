@@ -7,6 +7,9 @@
 
 }
 body{
+    flex: 1;
+    min-height: 100vh;
+    flex-direction: column;
     background-color: #fff;
 }
 h1{
@@ -59,4 +62,35 @@ ul li a{
     display: inline;
     color:white;
     padding: 20px !important
+}
+section{
+    display: flex;
+    direction: row;
+}
+
+.pronuncia{
+    flex: 1;
+}
+
+.main{
+    height: 80vh;
+    flex: 1;
+    
+
+}
+
+.header{
+    height: 12vh;
+}
+
+footer{
+    height: 4vh;
+    width: 50vh;
+
+}
+
+.asidedireito{
+    height: 115vh;
+    width: auto;
+    
 }
