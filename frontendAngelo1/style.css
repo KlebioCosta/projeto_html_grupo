@@ -91,6 +91,23 @@ footer{
 
 .asidedireito{
     height: 115vh;
-    width: auto;
-    
+    width: auto;   
+}
+#ajustartexto{
+    padding-right: 336px !important;
+    position: relative;
+    bottom:255px;
+    padding-top: 57px;
+    padding-bottom: 45px;
+}
+#fotoajustes{
+    position: relative;
+    left: 200px;
+    top: 90px;
+    width: 393px;
+}
+#pronuncia{
+    position:relative;
+    bottom: 306px;
+
 }
